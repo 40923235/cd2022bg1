@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2022-05-12T14:07:56+08:00</updated><entry><title>Meeting</title><link href="./meeting.html" rel="alternate"></link><published>2022-05-05T14:00:00+08:00</published><updated>2022-05-12T14:07:56+08:00</updated><author><name>cd2022bg1</name></author><id>tag:None,2022-05-05:./meeting.html</id><summary type="html">&lt;p&gt;組員會議&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2022-05-12T14:53:46+08:00</updated><entry><title>Meeting</title><link href="./meeting.html" rel="alternate"></link><published>2022-05-05T14:00:00+08:00</published><updated>2022-05-12T14:07:56+08:00</updated><author><name>cd2022bg1</name></author><id>tag:None,2022-05-05:./meeting.html</id><summary type="html">&lt;p&gt;組員會議&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;組員會議&lt;/p&gt;
 
 
@@ -35,7 +35,7 @@
 &lt;h2&gt;w11s1&lt;/h2&gt;
 &lt;h2&gt;w11s2&lt;/h2&gt;
 &lt;h2&gt;w11s3&lt;/h2&gt;
-&lt;h2&gt;w11s4&lt;/h2&gt;</content><category term="Misc"></category><category term="2022SpringCD"></category></entry><entry><title>W8</title><link href="./midterm.html" rel="alternate"></link><published>2022-04-14T14:00:00+08:00</published><updated>2022-05-12T14:07:56+08:00</updated><author><name>cd2022bg1</name></author><id>tag:None,2022-04-14:./midterm.html</id><summary type="html">&lt;p&gt;分別以 Solvespace, NX (12, 1980 或 2008) 及 Onshape, 完成各零件工程圖與組合圖&lt;/p&gt;
+&lt;h2&gt;w11s4&lt;/h2&gt;</content><category term="Misc"></category><category term="2022SpringCD"></category></entry><entry><title>W8</title><link href="./midterm.html" rel="alternate"></link><published>2022-04-14T14:00:00+08:00</published><updated>2022-05-12T14:53:46+08:00</updated><author><name>cd2022bg1</name></author><id>tag:None,2022-04-14:./midterm.html</id><summary type="html">&lt;p&gt;分別以 Solvespace, NX (12, 1980 或 2008) 及 Onshape, 完成各零件工程圖與組合圖&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;分別以 Solvespace, NX (12, 1980 或 2008) 及 Onshape, 完成各零件工程圖與組合圖&lt;/p&gt;
 
 
@@ -67,6 +67,31 @@ frameStops: {
 &lt;/p&gt;
 &lt;div class="winkVideoContainerClass"&gt;&lt;video width="1008" height="630" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData"&gt;
 &lt;source src="/downloads/w8drawing.mp4" type="video/mp4" /&gt;&lt;/video&gt;
+&lt;div class="winkVideoOverlayClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarClass"&gt;&lt;button class="winkVideoControlBarPlayButtonClass"&gt;&lt;/button&gt; &lt;button class="winkVideoControlBarPauseButtonClass"&gt;&lt;/button&gt;
+&lt;div class="winkVideoControlBarProgressLeftClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressEmptyMiddleClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressRightClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressFilledMiddleClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressThumbClass"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="winkVideoPlayOverlayClass"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;NX組合&lt;/p&gt;
+&lt;p&gt;
+&lt;script&gt;// &lt;![CDATA[
+var winkVideoData = {
+dataVersion: 1,
+frameRate: 20,
+buttonFrameLength: 10,
+buttonFrameOffset: 5,
+frameStops: {
+},
+};
+// ]]&gt;&lt;/script&gt;
+&lt;/p&gt;
+&lt;div class="winkVideoContainerClass"&gt;&lt;video width="1008" height="630" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData"&gt;
+&lt;source src="/downloads/combination.mp4" type="video/mp4" /&gt;&lt;/video&gt;
 &lt;div class="winkVideoOverlayClass"&gt;&lt;/div&gt;
 &lt;div class="winkVideoControlBarClass"&gt;&lt;button class="winkVideoControlBarPlayButtonClass"&gt;&lt;/button&gt; &lt;button class="winkVideoControlBarPauseButtonClass"&gt;&lt;/button&gt;
 &lt;div class="winkVideoControlBarProgressLeftClass"&gt;&lt;/div&gt;
