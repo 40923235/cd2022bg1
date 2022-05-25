@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習 - Misc</title><link href="./" rel="alternate"></link><link href="./feeds/misc.atom.xml" rel="self"></link><id>./</id><updated>2022-05-12T15:42:08+08:00</updated><entry><title>Meeting</title><link href="./meeting.html" rel="alternate"></link><published>2022-05-05T14:00:00+08:00</published><updated>2022-05-12T14:07:56+08:00</updated><author><name>cd2022bg1</name></author><id>tag:None,2022-05-05:./meeting.html</id><summary type="html">&lt;p&gt;組員會議&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習 - Misc</title><link href="./" rel="alternate"></link><link href="./feeds/misc.atom.xml" rel="self"></link><id>./</id><updated>2022-05-25T15:40:36+08:00</updated><entry><title>Meeting</title><link href="./meeting.html" rel="alternate"></link><published>2022-05-05T14:00:00+08:00</published><updated>2022-05-12T14:07:56+08:00</updated><author><name>cd2022bg1</name></author><id>tag:None,2022-05-05:./meeting.html</id><summary type="html">&lt;p&gt;組員會議&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;組員會議&lt;/p&gt;
 
 
@@ -188,7 +188,7 @@ var winkVideoData = {
 &lt;p&gt;&lt;a href="https://40923217.github.io/cd2022/blog/w7_summary.html"&gt;40923217&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://40923230.github.io/cd2022/blog/w7_summary.html"&gt;40923230&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://40923231.github.io/cd2022/blog/w7_summary.html"&gt;40923231&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://40923235.github.io/cd2022/blog/w7_summary.html"&gt;40923235&lt;/a&gt;&lt;/p&gt;</content><category term="Misc"></category><category term="2022SpringCD"></category></entry><entry><title>w3</title><link href="./w3.html" rel="alternate"></link><published>2022-03-10T14:00:00+08:00</published><updated>2022-05-12T15:24:52+08:00</updated><author><name>cd2022bg1</name></author><id>tag:None,2022-03-10:./w3.html</id><summary type="html">&lt;p&gt;組員影片繪製分配&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://40923235.github.io/cd2022/blog/w7_summary.html"&gt;40923235&lt;/a&gt;&lt;/p&gt;</content><category term="Misc"></category><category term="2022SpringCD"></category></entry><entry><title>w3</title><link href="./w3.html" rel="alternate"></link><published>2022-03-10T14:00:00+08:00</published><updated>2022-05-25T15:40:36+08:00</updated><author><name>cd2022bg1</name></author><id>tag:None,2022-03-10:./w3.html</id><summary type="html">&lt;p&gt;組員影片繪製分配&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;組員影片繪製分配&lt;/p&gt;
 
 
@@ -291,7 +291,7 @@ frameStops: {
 // ]]&gt;&lt;/script&gt;
 &lt;/p&gt;
 &lt;div class="winkVideoContainerClass"&gt;&lt;video width="1008" height="630" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData"&gt;
-&lt;source src="/downloads/6.mp4" type="video/mp4" /&gt;&lt;/video&gt;
+&lt;source src="https://40923205.github.io/cd2022/downloads/6.mp4" type="video/mp4" /&gt;&lt;/video&gt;
 &lt;div class="winkVideoOverlayClass"&gt;&lt;/div&gt;
 &lt;div class="winkVideoControlBarClass"&gt;&lt;button class="winkVideoControlBarPlayButtonClass"&gt;&lt;/button&gt; &lt;button class="winkVideoControlBarPauseButtonClass"&gt;&lt;/button&gt;
 &lt;div class="winkVideoControlBarProgressLeftClass"&gt;&lt;/div&gt;
