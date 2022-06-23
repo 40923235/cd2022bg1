@@ -1,0 +1,896 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2022-05-25T15:40:36+08:00</updated><entry><title>Meeting</title><link href="./meeting.html" rel="alternate"></link><published>2022-05-05T14:00:00+08:00</published><updated>2022-05-12T14:07:56+08:00</updated><author><name>cd2022bg1</name></author><id>tag:None,2022-05-05:./meeting.html</id><summary type="html">&lt;p&gt;組員會議&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;組員會議&lt;/p&gt;
+
+
+&lt;h6&gt;&lt;strong&gt;會議連結 :&lt;/strong&gt; &lt;a href="https://meet.google.com/grm-ojym-fhe"&gt;https://meet.google.com/grm-ojym-fhe&lt;/a&gt;&lt;/h6&gt;
+&lt;h6&gt;&lt;strong&gt;會議記錄 :&lt;/strong&gt;&lt;/h6&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff99;"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff99;"&gt;111/03/14&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;討論38個影片分配，有6人要做五個影片，2人做四個影片，以猜拳的方式找兩位做四個影片的組員，其餘的組員則自行挑選影片完成wink錄製。&lt;/p&gt;
+&lt;p&gt;40923210 羅諭琳 製作第01-05的影片&lt;/p&gt;
+&lt;p&gt;40923205 黃品瑜 製作第06-10的影片&lt;/p&gt;
+&lt;p&gt;40923230 黃暐哲 製作第11-15的影片&lt;/p&gt;
+&lt;p&gt;40923201 翁郁琳 製作第16-19的影片&lt;/p&gt;
+&lt;p&gt;40923208 葉媛婷 製作第20-23的影片&lt;/p&gt;
+&lt;p&gt;40923217 陳彥碩 製作第24-28的影片&lt;/p&gt;
+&lt;p&gt;40923235 詹侑儒 製作第29-33的影片&lt;/p&gt;
+&lt;p&gt;40923231 楊子頡&amp;nbsp;&lt;span&gt;製作第34-38的影片&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff99;"&gt;111/04/14&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;將組員分為三組, 分別以 Solvespace, NX (12, 1980 或 2008) 及 Onshape, 完成各零件工程圖與組合圖後, 將 uarm 組合件轉為&amp;nbsp;STL 格式後轉入 CoppeliaSim&lt;/p&gt;
+&lt;p&gt;NX1980:&lt;/p&gt;
+&lt;p&gt;40923210&amp;nbsp;&lt;span&gt;羅諭琳&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;40923205 黃品瑜&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Onshape:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;40923230 黃暐哲&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;40923231 楊子頡&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;40923235 詹侑儒&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Solvespace:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;40923201 翁郁琳&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;40923208 葉媛婷&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;40923217 陳彥碩&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;/span&gt;&lt;/p&gt;</content><category term="Misc"></category><category term="2022SpringCD"></category></entry><entry><title>W11</title><link href="./w11.html" rel="alternate"></link><published>2022-05-05T14:00:00+08:00</published><updated>2022-05-12T14:07:56+08:00</updated><author><name>cd2022bg1</name></author><id>tag:None,2022-05-05:./w11.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;h1&gt;w11&lt;/h1&gt;
+&lt;h2&gt;w11s1&lt;/h2&gt;
+&lt;h2&gt;w11s2&lt;/h2&gt;
+&lt;h2&gt;w11s3&lt;/h2&gt;
+&lt;h2&gt;w11s4&lt;/h2&gt;</content><category term="Misc"></category><category term="2022SpringCD"></category></entry><entry><title>W8</title><link href="./midterm.html" rel="alternate"></link><published>2022-04-14T14:00:00+08:00</published><updated>2022-05-12T15:42:08+08:00</updated><author><name>cd2022bg1</name></author><id>tag:None,2022-04-14:./midterm.html</id><summary type="html">&lt;p&gt;分別以 Solvespace, NX (12, 1980 或 2008) 及 Onshape, 完成各零件工程圖與組合圖&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;分別以 Solvespace, NX (12, 1980 或 2008) 及 Onshape, 完成各零件工程圖與組合圖&lt;/p&gt;
+
+
+&lt;p&gt;將組員分為三組, 分別以 Solvespace, NX (12, 1980 或 2008) 及 Onshape, 完成各零件工程圖與組合圖後, 將 uarm 組合件轉為&amp;nbsp;STL 格式後轉入 CoppeliaSim&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffcc99;"&gt;NX1980:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;40923210&amp;nbsp;&lt;span&gt;羅諭琳&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;40923205 黃品瑜&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffcc99;"&gt;Onshape:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;40923230 黃暐哲&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;40923231 楊子頡&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;40923235 詹侑儒&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffcc99;"&gt;Solvespace:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;40923201 翁郁琳&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;40923208 葉媛婷&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;40923217 陳彥碩&lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;NX midterm&lt;/h2&gt;
+&lt;p&gt;NX零件繪製&lt;/p&gt;
+&lt;p&gt;
+&lt;script&gt;// &lt;![CDATA[
+var winkVideoData = {
+dataVersion: 1,
+frameRate: 20,
+buttonFrameLength: 10,
+buttonFrameOffset: 5,
+frameStops: {
+},
+};
+// ]]&gt;&lt;/script&gt;
+&lt;/p&gt;
+&lt;div class="winkVideoContainerClass"&gt;&lt;video width="1008" height="630" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData"&gt;
+&lt;source src="/downloads/w8drawing.mp4" type="video/mp4" /&gt;&lt;/video&gt;
+&lt;div class="winkVideoOverlayClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarClass"&gt;&lt;button class="winkVideoControlBarPlayButtonClass"&gt;&lt;/button&gt; &lt;button class="winkVideoControlBarPauseButtonClass"&gt;&lt;/button&gt;
+&lt;div class="winkVideoControlBarProgressLeftClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressEmptyMiddleClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressRightClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressFilledMiddleClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressThumbClass"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="winkVideoPlayOverlayClass"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;NX組合&lt;/p&gt;
+&lt;p&gt;
+&lt;script&gt;// &lt;![CDATA[
+var winkVideoData = {
+dataVersion: 1,
+frameRate: 20,
+buttonFrameLength: 10,
+buttonFrameOffset: 5,
+frameStops: {
+},
+};
+// ]]&gt;&lt;/script&gt;
+&lt;/p&gt;
+&lt;div class="winkVideoContainerClass"&gt;&lt;video width="1008" height="630" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData"&gt;
+&lt;source src="/downloads/combination.mp4" type="video/mp4" /&gt;&lt;/video&gt;
+&lt;div class="winkVideoOverlayClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarClass"&gt;&lt;button class="winkVideoControlBarPlayButtonClass"&gt;&lt;/button&gt; &lt;button class="winkVideoControlBarPauseButtonClass"&gt;&lt;/button&gt;
+&lt;div class="winkVideoControlBarProgressLeftClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressEmptyMiddleClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressRightClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressFilledMiddleClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressThumbClass"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="winkVideoPlayOverlayClass"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;NX coppeliasim&lt;/p&gt;
+&lt;p&gt;
+&lt;script&gt;// &lt;![CDATA[
+var winkVideoData = {
+dataVersion: 1,
+frameRate: 20,
+buttonFrameLength: 10,
+buttonFrameOffset: 5,
+frameStops: {
+},
+};
+// ]]&gt;&lt;/script&gt;
+&lt;/p&gt;
+&lt;div class="winkVideoContainerClass"&gt;&lt;video width="1008" height="630" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData"&gt;
+&lt;source src="/downloads/nxcopp.mp4" type="video/mp4" /&gt;&lt;/video&gt;
+&lt;div class="winkVideoOverlayClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarClass"&gt;&lt;button class="winkVideoControlBarPlayButtonClass"&gt;&lt;/button&gt; &lt;button class="winkVideoControlBarPauseButtonClass"&gt;&lt;/button&gt;
+&lt;div class="winkVideoControlBarProgressLeftClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressEmptyMiddleClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressRightClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressFilledMiddleClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressThumbClass"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="winkVideoPlayOverlayClass"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;h2&gt;Onshape midterm&lt;/h2&gt;
+&lt;h2&gt;Solvespace&amp;nbsp;midterm&lt;/h2&gt;
+&lt;p&gt;coppeliasim組合作動&lt;/p&gt;
+&lt;p&gt;
+&lt;script&gt;// &lt;![CDATA[
+var winkVideoData = {
+  dataVersion: 1,
+  frameRate: 20,
+  buttonFrameLength: 10,
+  buttonFrameOffset: 5,
+  frameStops: {
+  },
+};
+// ]]&gt;&lt;/script&gt;
+&lt;/p&gt;
+&lt;div class="winkVideoContainerClass"&gt;&lt;video width="1344" height="756" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData"&gt;
+&lt;source src="https://40923217.github.io/cd2022/downloads/coppliasim.mp4" type="video/mp4" /&gt;&lt;/video&gt;
+&lt;div class="winkVideoOverlayClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarClass"&gt;&lt;button class="winkVideoControlBarPlayButtonClass"&gt;&lt;/button&gt; &lt;button class="winkVideoControlBarPauseButtonClass"&gt;&lt;/button&gt;
+&lt;div class="winkVideoControlBarProgressLeftClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressEmptyMiddleClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressRightClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressFilledMiddleClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressThumbClass"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="winkVideoPlayOverlayClass"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;solvespace零件&lt;/p&gt;
+&lt;p&gt;
+&lt;script&gt;// &lt;![CDATA[
+var winkVideoData = {
+  dataVersion: 1,
+  frameRate: 20,
+  buttonFrameLength: 10,
+  buttonFrameOffset: 5,
+  frameStops: {
+  },
+};
+// ]]&gt;&lt;/script&gt;
+&lt;/p&gt;
+&lt;div class="winkVideoContainerClass"&gt;&lt;video width="1344" height="756" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData" video=""&gt;
+&lt;source src="https://40923217.github.io/cd2022/downloads/solvespace.mp4" type="video/mp4" /&gt;&lt;/video&gt;
+&lt;div class="winkVideoOverlayClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarClass"&gt;&lt;button class="winkVideoControlBarPlayButtonClass"&gt;&lt;/button&gt; &lt;button class="winkVideoControlBarPauseButtonClass"&gt;&lt;/button&gt;
+&lt;div class="winkVideoControlBarProgressLeftClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressEmptyMiddleClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressRightClass"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</content><category term="Misc"></category><category term="2022SpringCD"></category></entry><entry><title>W7</title><link href="./summary.html" rel="alternate"></link><published>2022-04-07T14:00:00+08:00</published><updated>2022-05-12T14:07:49+08:00</updated><author><name>cd2022bg1</name></author><id>tag:None,2022-04-07:./summary.html</id><summary type="html">&lt;p&gt;組員blog w7 summary link&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;組員blog w7 summary link&lt;/p&gt;
+
+
+&lt;h5&gt;w7_summary&lt;/h5&gt;
+&lt;h6&gt;members' link:&lt;/h6&gt;
+&lt;p&gt;&lt;a href="https://40923201.github.io/cd2022/blog/w7_summary.html"&gt;40923201&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://40923205.github.io/cd2022/blog/w7_summary.html"&gt;40923205&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://nfu40923208.github.io/cd2022/blog/w7_summary.html"&gt;40923208&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://40923210.github.io/cd2022/blog/w7_summary.html"&gt;40923210&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://40923217.github.io/cd2022/blog/w7_summary.html"&gt;40923217&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://40923230.github.io/cd2022/blog/w7_summary.html"&gt;40923230&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://40923231.github.io/cd2022/blog/w7_summary.html"&gt;40923231&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://40923235.github.io/cd2022/blog/w7_summary.html"&gt;40923235&lt;/a&gt;&lt;/p&gt;</content><category term="Misc"></category><category term="2022SpringCD"></category></entry><entry><title>w3</title><link href="./w3.html" rel="alternate"></link><published>2022-03-10T14:00:00+08:00</published><updated>2022-05-25T15:40:36+08:00</updated><author><name>cd2022bg1</name></author><id>tag:None,2022-03-10:./w3.html</id><summary type="html">&lt;p&gt;組員影片繪製分配&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;組員影片繪製分配&lt;/p&gt;
+
+
+&lt;h2&gt;40923201&lt;/h2&gt;
+&lt;p&gt;16NX組件&lt;/p&gt;
+&lt;p&gt;
+&lt;script&gt;// &lt;![CDATA[
+var winkVideoData = {
+  dataVersion: 1,
+  frameRate: 20,
+  buttonFrameLength: 10,
+  buttonFrameOffset: 5,
+  frameStops: {
+  },
+};
+// ]]&gt;&lt;/script&gt;
+&lt;/p&gt;
+&lt;div class="winkVideoContainerClass"&gt;&lt;video width="1344" height="760" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData"&gt;
+&lt;source src="https://40923201.github.io/cd2022/downloads/W3%2016video.mp4" type="video/mp4" /&gt;&lt;/video&gt;
+&lt;div class="winkVideoOverlayClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarClass"&gt;&lt;button class="winkVideoControlBarPlayButtonClass"&gt;&lt;/button&gt; &lt;button class="winkVideoControlBarPauseButtonClass"&gt;&lt;/button&gt;
+&lt;div class="winkVideoControlBarProgressLeftClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressEmptyMiddleClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressRightClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressFilledMiddleClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressThumbClass"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="winkVideoPlayOverlayClass"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;-------------------------&lt;/p&gt;
+&lt;p&gt;17.畫曲線、管子、波浪的幾何連結器&lt;/p&gt;
+&lt;p&gt;
+&lt;script&gt;// &lt;![CDATA[
+var winkVideoData = {
+  dataVersion: 1,
+    @@ -11,6 +38,7 @@ var winkVideoData = {
+  },
+};
+// ]]&gt;&lt;/script&gt;
+&lt;/p&gt;
+&lt;div class="winkVideoContainerClass"&gt;&lt;video width="1008" height="630" autoplay="autoplay" class="winkVideoClass" controls="controls" data-dirname="/static" data-varname="winkVideoData" muted="true"&gt;
+&lt;source src="https://40923201.github.io/cd2022/downloads/W3%2017%20video.mp4" type="video/mp4" /&gt;&lt;/video&gt;
+&lt;div class="winkVideoOverlayClass"&gt;&lt;/div&gt;
+@@ -24,8 +52,33 @@ var winkVideoData = {
+&lt;div class="winkVideoPlayOverlayClass"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;-------------------------&lt;/p&gt;
+&lt;p&gt;18支架&lt;/p&gt;
+&lt;script&gt;// &lt;![CDATA[
+var winkVideoData = {
+  dataVersion: 1,
+  frameRate: 20,
+  buttonFrameLength: 10,
+  buttonFrameOffset: 5,
+  frameStops: {
+  },
+};
+// ]]&gt;&lt;/script&gt;
+&lt;div class="winkVideoContainerClass"&gt;&lt;video width="1344" height="760" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData"&gt;
+&lt;source src="https://40923201.github.io/cd2022/downloads/W3%2018video.mp4" type="video/mp4" /&gt;&lt;/video&gt;
+&lt;div class="winkVideoOverlayClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarClass"&gt;&lt;button class="winkVideoControlBarPlayButtonClass"&gt;&lt;/button&gt; &lt;button class="winkVideoControlBarPauseButtonClass"&gt;&lt;/button&gt;
+&lt;div class="winkVideoControlBarProgressLeftClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressEmptyMiddleClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressRightClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressFilledMiddleClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressThumbClass"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="winkVideoPlayOverlayClass"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;-------------------------&lt;/p&gt;
+&lt;p&gt;19.工作圖&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;script&gt;// &lt;![CDATA[
+var winkVideoData = {
+  dataVersion: 1,
+    @@ -36,6 +89,7 @@ var winkVideoData = {
+  },
+};
+// ]]&gt;&lt;/script&gt;
+&lt;/p&gt;
+&lt;div class="winkVideoContainerClass"&gt;&lt;video width="1008" height="630" autoplay="autoplay" class="winkVideoClass" controls="controls" data-dirname="/static" data-varname="winkVideoData" muted="true"&gt;
+&lt;source src="https://40923201.github.io/cd2022/downloads/W3%2019video.mp4" type="video/mp4" /&gt;&lt;/video&gt;
+&lt;div class="winkVideoOverlayClass"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;h2&gt;40923205&lt;/h2&gt;
+&lt;p&gt;06.&lt;yt-formatted-string class="style-scope ytd-video-primary-info-renderer" force-default-style=""&gt;TECH 4472 - Homework 3A - Expressions&lt;/yt-formatted-string&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff99;"&gt;設定代號數值完成平面圖&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;script&gt;// &lt;![CDATA[
+var winkVideoData = {
+dataVersion: 1,
+frameRate: 20,
+buttonFrameLength: 10,
+buttonFrameOffset: 5,
+frameStops: {
+},
+};
+// ]]&gt;&lt;/script&gt;
+&lt;/p&gt;
+&lt;div class="winkVideoContainerClass"&gt;&lt;video width="1008" height="630" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData"&gt;
+&lt;source src="https://40923205.github.io/cd2022/downloads/6.mp4" type="video/mp4" /&gt;&lt;/video&gt;
+&lt;div class="winkVideoOverlayClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarClass"&gt;&lt;button class="winkVideoControlBarPlayButtonClass"&gt;&lt;/button&gt; &lt;button class="winkVideoControlBarPauseButtonClass"&gt;&lt;/button&gt;
+&lt;div class="winkVideoControlBarProgressLeftClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressEmptyMiddleClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressRightClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressFilledMiddleClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressThumbClass"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="winkVideoPlayOverlayClass"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;-----------------------------------------&lt;/p&gt;
+&lt;p&gt;07.TECH 4472 - Homework 03B - Expressions (Continued)&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff99;"&gt;設定數據、公式及查看截面數據表&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;script&gt;// &lt;![CDATA[
+var winkVideoData = {
+  dataVersion: 1,
+  frameRate: 20,
+  buttonFrameLength: 10,
+  buttonFrameOffset: 5,
+  frameStops: {
+  },
+};
+// ]]&gt;&lt;/script&gt;
+&lt;div class="winkVideoContainerClass"&gt;&lt;video width="1008" height="630" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData"&gt;
+&lt;source src="/downloads/7.mp4" type="video/mp4" /&gt;&lt;/video&gt;
+&lt;div class="winkVideoOverlayClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarClass"&gt;&lt;button class="winkVideoControlBarPlayButtonClass"&gt;&lt;/button&gt; &lt;button class="winkVideoControlBarPauseButtonClass"&gt;&lt;/button&gt;
+&lt;div class="winkVideoControlBarProgressLeftClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressEmptyMiddleClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressRightClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressFilledMiddleClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressThumbClass"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="winkVideoPlayOverlayClass"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;-----------------------------------------&lt;/p&gt;
+&lt;p&gt;08.TECH 4472 Homework 4 - AC Connector Nut&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff99;"&gt;繪製螺母&lt;/span&gt;&lt;/p&gt;
+&lt;script&gt;// &lt;![CDATA[
+var winkVideoData = {
+  dataVersion: 1,
+  frameRate: 20,
+  buttonFrameLength: 10,
+  buttonFrameOffset: 5,
+  frameStops: {
+  },
+};
+// ]]&gt;&lt;/script&gt;
+&lt;div class="winkVideoContainerClass"&gt;&lt;video width="1008" height="630" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData"&gt;
+&lt;source src="/downloads/8.mp4" type="video/mp4" /&gt;&lt;/video&gt;
+&lt;div class="winkVideoOverlayClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarClass"&gt;&lt;button class="winkVideoControlBarPlayButtonClass"&gt;&lt;/button&gt; &lt;button class="winkVideoControlBarPauseButtonClass"&gt;&lt;/button&gt;
+&lt;div class="winkVideoControlBarProgressLeftClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressEmptyMiddleClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressRightClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressFilledMiddleClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressThumbClass"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="winkVideoPlayOverlayClass"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;-----------------------------------------&lt;/p&gt;
+&lt;p&gt;09.TECH 4472 Homework 5A - Box&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff99;"&gt;利用參數設定寬及高繪出箱子&lt;/span&gt;&lt;/p&gt;
+&lt;script&gt;// &lt;![CDATA[
+var winkVideoData = {
+  dataVersion: 1,
+  frameRate: 20,
+  buttonFrameLength: 10,
+  buttonFrameOffset: 5,
+  frameStops: {
+  },
+};
+// ]]&gt;&lt;/script&gt;
+&lt;div class="winkVideoContainerClass"&gt;&lt;video width="1008" height="630" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData"&gt;
+&lt;source src="/downloads/9.mp4" type="video/mp4" /&gt;&lt;/video&gt;
+&lt;div class="winkVideoOverlayClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarClass"&gt;&lt;button class="winkVideoControlBarPlayButtonClass"&gt;&lt;/button&gt; &lt;button class="winkVideoControlBarPauseButtonClass"&gt;&lt;/button&gt;
+&lt;div class="winkVideoControlBarProgressLeftClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressEmptyMiddleClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressRightClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressFilledMiddleClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressThumbClass"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="winkVideoPlayOverlayClass"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;-----------------------------------------&lt;/p&gt;
+&lt;p&gt;10.TECH 4472 Homework 5B - Master Model Drawing&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff99;"&gt;放置三視圖、標示標註及公差值、註解&lt;/span&gt;&lt;/p&gt;
+&lt;script&gt;// &lt;![CDATA[
+var winkVideoData = {
+  dataVersion: 1,
+  frameRate: 20,
+  buttonFrameLength: 10,
+  buttonFrameOffset: 5,
+  frameStops: {
+  },
+};
+// ]]&gt;&lt;/script&gt;
+&lt;div class="winkVideoContainerClass"&gt;&lt;video width="1008" height="630" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData"&gt;
+&lt;source src="/downloads/10.mp4" type="video/mp4" /&gt;&lt;/video&gt;
+&lt;div class="winkVideoOverlayClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarClass"&gt;&lt;button class="winkVideoControlBarPlayButtonClass"&gt;&lt;/button&gt; &lt;button class="winkVideoControlBarPauseButtonClass"&gt;&lt;/button&gt;
+&lt;div class="winkVideoControlBarProgressLeftClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressEmptyMiddleClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressRightClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressFilledMiddleClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressThumbClass"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="winkVideoPlayOverlayClass"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;h2&gt;40923208&lt;/h2&gt;
+&lt;p&gt;20.&lt;/p&gt;
+&lt;script&gt;// &lt;![CDATA[
+var winkVideoData = {
+  dataVersion: 1,
+  frameRate: 20,
+  buttonFrameLength: 10,
+  buttonFrameOffset: 5,
+  frameStops: {
+  },
+};
+// ]]&gt;&lt;/script&gt;
+&lt;div class="winkVideoContainerClass"&gt;&lt;video width="1440" height="810" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData"&gt;
+&lt;source src="https://nfu40923208.github.io/cd2022/downloads/%E5%BD%B1%E7%89%8720.mp4" type="video/mp4" /&gt;&lt;/video&gt;
+&lt;div class="winkVideoOverlayClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarClass"&gt;&lt;button class="winkVideoControlBarPlayButtonClass"&gt;&lt;/button&gt; &lt;button class="winkVideoControlBarPauseButtonClass"&gt;&lt;/button&gt;
+&lt;div class="winkVideoControlBarProgressLeftClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressEmptyMiddleClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressRightClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressFilledMiddleClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressThumbClass"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="winkVideoPlayOverlayClass"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;21.&lt;/p&gt;
+&lt;script&gt;// &lt;![CDATA[
+var winkVideoData = {
+  dataVersion: 1,
+  frameRate: 20,
+  buttonFrameLength: 10,
+  buttonFrameOffset: 5,
+  frameStops: {
+  },
+};
+// ]]&gt;&lt;/script&gt;
+&lt;div class="winkVideoContainerClass"&gt;&lt;video width="1440" height="810" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData" video=""&gt;
+&lt;source src="https://nfu40923208.github.io/cd2022/downloads/%E5%BD%B1%E7%89%8721-1.mp4" type="video/mp4" /&gt;&lt;/video&gt;
+&lt;div class="winkVideoOverlayClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarClass"&gt;&lt;button class="winkVideoControlBarPlayButtonClass"&gt;&lt;/button&gt; &lt;button class="winkVideoControlBarPauseButtonClass"&gt;&lt;/button&gt;
+&lt;div class="winkVideoControlBarProgressLeftClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressEmptyMiddleClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressRightClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressFilledMiddleClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressThumbClass"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="winkVideoPlayOverlayClass"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;22.&lt;/p&gt;
+&lt;script&gt;// &lt;![CDATA[
+var winkVideoData = {
+  dataVersion: 1,
+  frameRate: 20,
+  buttonFrameLength: 10,
+  buttonFrameOffset: 5,
+  frameStops: {
+  },
+};
+// ]]&gt;&lt;/script&gt;
+&lt;div class="winkVideoContainerClass"&gt;&lt;video width="1440" height="810" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData" video=""&gt;
+&lt;source src="https://nfu40923208.github.io/cd2022/downloads/%E5%BD%B1%E7%89%8722.mp4" type="video/mp4" /&gt;&lt;/video&gt;
+&lt;div class="winkVideoOverlayClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarClass"&gt;&lt;button class="winkVideoControlBarPlayButtonClass"&gt;&lt;/button&gt; &lt;button class="winkVideoControlBarPauseButtonClass"&gt;&lt;/button&gt;
+&lt;div class="winkVideoControlBarProgressLeftClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressEmptyMiddleClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressRightClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressFilledMiddleClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressThumbClass"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="winkVideoPlayOverlayClass"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;h2&gt;40923210&lt;/h2&gt;
+&lt;p&gt;video1&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;script&gt;// &lt;![CDATA[
+var winkVideoData = {
+  dataVersion: 1,
+  frameRate: 20,
+  buttonFrameLength: 10,
+  buttonFrameOffset: 5,
+  frameStops: {
+  },
+};
+// ]]&gt;&lt;/script&gt;
+&lt;div class="winkVideoContainerClass"&gt;&lt;video width="1008" height="630" autoplay="autoplay" class="winkVideoClass" controls="controls" data-dirname="/static" data-varname="winkVideoData"&gt; muted="true"&amp;gt;
+&lt;source src="https://40923210.github.io/cd2022/downloads/video1.mp4" type="video/mp4" /&gt;&lt;/video&gt;
+&lt;div class="winkVideoOverlayClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarClass"&gt;&lt;button class="winkVideoControlBarPlayButtonClass"&gt;&lt;/button&gt; &lt;button class="winkVideoControlBarPauseButtonClass"&gt;&lt;/button&gt;
+&lt;div class="winkVideoControlBarProgressLeftClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressEmptyMiddleClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressRightClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressFilledMiddleClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressThumbClass"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="winkVideoPlayOverlayClass"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;------------------------------------------------------------&lt;/p&gt;
+&lt;p&gt;video2&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;script&gt;// &lt;![CDATA[
+var winkVideoData = {
+  dataVersion: 1,
+  frameRate: 20,
+  buttonFrameLength: 10,
+  buttonFrameOffset: 5,
+  frameStops: {
+  },
+};
+// ]]&gt;&lt;/script&gt;
+&lt;div class="winkVideoContainerClass"&gt;&lt;video width="1008" height="630" autoplay="autoplay" class="winkVideoClass" controls="controls" data-dirname="/static" data-varname="winkVideoData"&gt; muted="true"&amp;gt;
+      &lt;source src="https://40923210.github.io/cd2022/downloads/video2.mp4" type="video/mp4" /&gt;&lt;/video&gt;
+&lt;div class="winkVideoOverlayClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarClass"&gt;&lt;button class="winkVideoControlBarPlayButtonClass"&gt;&lt;/button&gt; &lt;button class="winkVideoControlBarPauseButtonClass"&gt;&lt;/button&gt;
+&lt;div class="winkVideoControlBarProgressLeftClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressEmptyMiddleClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressRightClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressFilledMiddleClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressThumbClass"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="winkVideoPlayOverlayClass"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;------------------------------------------------------------&lt;/p&gt;
+&lt;p&gt;video3&lt;/p&gt;
+&lt;script&gt;// &lt;![CDATA[
+var winkVideoData = {
+  dataVersion: 1,
+  frameRate: 20,
+  buttonFrameLength: 10,
+  buttonFrameOffset: 5,
+  frameStops: {
+  },
+};
+// ]]&gt;&lt;/script&gt;
+&lt;div class="winkVideoContainerClass"&gt;&lt;video width="1008" height="630" autoplay="autoplay" class="winkVideoClass" controls="controls" data-dirname="/static" data-varname="winkVideoData"&gt; muted="true"&amp;gt;
+      &lt;source src="https://40923210.github.io/cd2022/downloads/video3.mp4" type="video/mp4" /&gt;&lt;/video&gt;
+&lt;div class="winkVideoOverlayClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarClass"&gt;&lt;button class="winkVideoControlBarPlayButtonClass"&gt;&lt;/button&gt; &lt;button class="winkVideoControlBarPauseButtonClass"&gt;&lt;/button&gt;
+&lt;div class="winkVideoControlBarProgressLeftClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressEmptyMiddleClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressRightClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressFilledMiddleClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressThumbClass"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="winkVideoPlayOverlayClass"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;------------------------------------------------------------&lt;/p&gt;
+&lt;p&gt;video4&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;script&gt;// &lt;![CDATA[
+var winkVideoData = {
+  dataVersion: 1,
+  frameRate: 20,
+  buttonFrameLength: 10,
+  buttonFrameOffset: 5,
+  frameStops: {
+  },
+};
+// ]]&gt;&lt;/script&gt;
+&lt;div class="winkVideoContainerClass"&gt;&lt;video width="1008" height="630" autoplay="autoplay" class="winkVideoClass" controls="controls" data-dirname="/static" data-varname="winkVideoData"&gt; muted="true"&amp;gt;
+      &lt;source src="https://40923210.github.io/cd2022/downloads/video4.mp4" type="video/mp4" /&gt;&lt;/video&gt;
+&lt;div class="winkVideoOverlayClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarClass"&gt;&lt;button class="winkVideoControlBarPlayButtonClass"&gt;&lt;/button&gt; &lt;button class="winkVideoControlBarPauseButtonClass"&gt;&lt;/button&gt;
+&lt;div class="winkVideoControlBarProgressLeftClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressEmptyMiddleClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressRightClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressFilledMiddleClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressThumbClass"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="winkVideoPlayOverlayClass"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;------------------------------------------------------------&lt;/p&gt;
+&lt;p&gt;video5&lt;/p&gt;
+&lt;script&gt;// &lt;![CDATA[
+var winkVideoData = {
+  dataVersion: 1,
+  frameRate: 20,
+  buttonFrameLength: 10,
+  buttonFrameOffset: 5,
+  frameStops: {
+  },
+};
+// ]]&gt;&lt;/script&gt;
+&lt;div class="winkVideoContainerClass"&gt;&lt;video width="1008" height="630" autoplay="autoplay" class="winkVideoClass" controls="controls" data-dirname="/static" data-varname="winkVideoData"&gt; muted="true"&amp;gt;
+      &lt;source src="https://40923210.github.io/cd2022/downloads/video5.mp4" type="video/mp4" /&gt;&lt;/video&gt;
+&lt;div class="winkVideoOverlayClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarClass"&gt;&lt;button class="winkVideoControlBarPlayButtonClass"&gt;&lt;/button&gt; &lt;button class="winkVideoControlBarPauseButtonClass"&gt;&lt;/button&gt;
+&lt;div class="winkVideoControlBarProgressLeftClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressEmptyMiddleClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressRightClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressFilledMiddleClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressThumbClass"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="winkVideoPlayOverlayClass"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;h2&gt;40923217&lt;/h2&gt;
+&lt;p&gt;24 -&amp;nbsp;&lt;yt-formatted-string class="style-scope ytd-video-primary-info-renderer" force-default-style=""&gt;NX Part Family Example&lt;/yt-formatted-string&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;script&gt;// &lt;![CDATA[
+var winkVideoData = {
+  dataVersion: 1,
+  frameRate: 20,
+  buttonFrameLength: 10,
+  buttonFrameOffset: 5,
+  frameStops: {
+  },
+};
+// ]]&gt;&lt;/script&gt;
+&lt;/p&gt;
+&lt;div class="winkVideoContainerClass"&gt;&lt;video width="1344" height="756" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData" video=""&gt;
+&lt;source source="" src="https://40923217.github.io/cd2022/downloads/24.mp4" /&gt;&lt;/video&gt;
+&lt;div class="winkVideoOverlayClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarClass"&gt;&lt;button class="winkVideoControlBarPlayButtonClass"&gt;&lt;/button&gt; &lt;button class="winkVideoControlBarPauseButtonClass"&gt;&lt;/button&gt;
+&lt;div class="winkVideoControlBarProgressLeftClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressEmptyMiddleClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressRightClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressFilledMiddleClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressThumbClass"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="winkVideoPlayOverlayClass"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;-----------------------------------------------------&lt;/p&gt;
+&lt;p&gt;25 -&amp;nbsp;&lt;yt-formatted-string class="style-scope ytd-video-primary-info-renderer" force-default-style=""&gt;NX Assembly Modeling - Pattern Component&lt;/yt-formatted-string&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;script&gt;// &lt;![CDATA[
+var winkVideoData = {
+  dataVersion: 1,
+  frameRate: 20,
+  buttonFrameLength: 10,
+  buttonFrameOffset: 5,
+  frameStops: {
+  },
+};
+// ]]&gt;&lt;/script&gt;
+&lt;/p&gt;
+&lt;div class="winkVideoContainerClass"&gt;&lt;video width="1344" height="756" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData" video=""&gt;
+&lt;source source="" src="https://40923217.github.io/cd2022/downloads/25.mp4" type="video/mp4" /&gt;&lt;/video&gt;
+&lt;div class="winkVideoOverlayClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarClass"&gt;&lt;button class="winkVideoControlBarPlayButtonClass"&gt;&lt;/button&gt; &lt;button class="winkVideoControlBarPauseButtonClass"&gt;&lt;/button&gt;
+&lt;div class="winkVideoControlBarProgressLeftClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressEmptyMiddleClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressRightClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressFilledMiddleClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressThumbClass"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="winkVideoPlayOverlayClass"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;-----------------------------------------------------&lt;/p&gt;
+&lt;p&gt;26 -&amp;nbsp;&lt;yt-formatted-string class="style-scope ytd-video-primary-info-renderer" force-default-style=""&gt;NX Exploded Views&lt;/yt-formatted-string&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;script&gt;// &lt;![CDATA[
+var winkVideoData = {
+  dataVersion: 1,
+  frameRate: 20,
+  buttonFrameLength: 10,
+  buttonFrameOffset: 5,
+  frameStops: {
+  },
+};
+// ]]&gt;&lt;/script&gt;
+&lt;/p&gt;
+&lt;div class="winkVideoContainerClass"&gt;&lt;video width="1344" height="756" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData" video=""&gt;
+&lt;source source="" src="https://40923217.github.io/cd2022/downloads/26.mp4" type="video/mp4" /&gt;&lt;/video&gt;
+&lt;div class="winkVideoOverlayClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarClass"&gt;&lt;button class="winkVideoControlBarPlayButtonClass"&gt;&lt;/button&gt; &lt;button class="winkVideoControlBarPauseButtonClass"&gt;&lt;/button&gt;
+&lt;div class="winkVideoControlBarProgressLeftClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressEmptyMiddleClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressRightClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressFilledMiddleClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressThumbClass"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="winkVideoPlayOverlayClass"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;-----------------------------------------------------&lt;/p&gt;
+&lt;p&gt;27-&lt;yt-formatted-string class="style-scope ytd-video-primary-info-renderer" force-default-style=""&gt;Design Fundamentals&lt;/yt-formatted-string&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;script&gt;// &lt;![CDATA[
+var winkVideoData = {
+  dataVersion: 1,
+  frameRate: 20,
+  buttonFrameLength: 10,
+  buttonFrameOffset: 5,
+  frameStops: {
+  },
+};
+// ]]&gt;&lt;/script&gt;
+&lt;/p&gt;
+&lt;div class="winkVideoContainerClass"&gt;&lt;video width="1344" height="756" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData" video=""&gt;
+&lt;source source="" src="https://40923217.github.io/cd2022/downloads/27.mp4" type="video/mp4" /&gt;&lt;/video&gt;
+&lt;div class="winkVideoOverlayClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarClass"&gt;&lt;button class="winkVideoControlBarPlayButtonClass"&gt;&lt;/button&gt; &lt;button class="winkVideoControlBarPauseButtonClass"&gt;&lt;/button&gt;
+&lt;div class="winkVideoControlBarProgressLeftClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressEmptyMiddleClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressRightClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressFilledMiddleClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressThumbClass"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="winkVideoPlayOverlayClass"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;-----------------------------------------------------&lt;/p&gt;
+&lt;p&gt;28 -&amp;nbsp;&lt;yt-formatted-string class="style-scope ytd-video-primary-info-renderer" force-default-style=""&gt;NX Design Simulation FEM Example&lt;/yt-formatted-string&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;script&gt;// &lt;![CDATA[
+var winkVideoData = {
+  dataVersion: 1,
+  frameRate: 20,
+  buttonFrameLength: 10,
+  buttonFrameOffset: 5,
+  frameStops: {
+  },
+};
+// ]]&gt;&lt;/script&gt;
+&lt;/p&gt;
+&lt;div class="winkVideoContainerClass"&gt;&lt;video width="1344" height="756" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData" video=""&gt;
+&lt;source source="" src="https://40923217.github.io/cd2022/downloads/28.mp4" type="video/mp4" /&gt;&lt;/video&gt;
+&lt;div class="winkVideoOverlayClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarClass"&gt;&lt;button class="winkVideoControlBarPlayButtonClass"&gt;&lt;/button&gt; &lt;button class="winkVideoControlBarPauseButtonClass"&gt;&lt;/button&gt;
+&lt;div class="winkVideoControlBarProgressLeftClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressEmptyMiddleClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressRightClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressFilledMiddleClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressThumbClass"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="winkVideoPlayOverlayClass"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;h2&gt;40923230&lt;/h2&gt;
+&lt;h6&gt;v11&lt;/h6&gt;
+&lt;p&gt;影片繪製&lt;/p&gt;
+&lt;script&gt;// &lt;![CDATA[
+var winkVideoData = {
+  dataVersion: 1,
+  frameRate: 20,
+  buttonFrameLength: 10,
+  buttonFrameOffset: 5,
+  frameStops: {
+  },
+};
+// ]]&gt;&lt;/script&gt;
+&lt;div class="winkVideoContainerClass"&gt;&lt;video width="1344" height="756" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData"&gt;
+&lt;source src="https://40923230.github.io/cd2022/downloads/v11.mp4" /&gt;&lt;/video&gt;
+&lt;div class="winkVideoOverlayClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarClass"&gt;&lt;button class="winkVideoControlBarPlayButtonClass"&gt;&lt;/button&gt; &lt;button class="winkVideoControlBarPauseButtonClass"&gt;&lt;/button&gt;
+&lt;div class="winkVideoControlBarProgressLeftClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressEmptyMiddleClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressRightClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressFilledMiddleClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressThumbClass"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="winkVideoPlayOverlayClass"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;-----------------------------------------------------------------------&lt;/p&gt;
+&lt;h6&gt;v11-2&lt;/h6&gt;
+&lt;p&gt;影片繪製&lt;/p&gt;
+&lt;script&gt;// &lt;![CDATA[
+var winkVideoData = {
+  dataVersion: 1,
+  frameRate: 20,
+  buttonFrameLength: 10,
+  buttonFrameOffset: 5,
+  frameStops: {
+  },
+};
+// ]]&gt;&lt;/script&gt;
+&lt;div class="winkVideoContainerClass"&gt;&lt;video width="1344" height="756" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData"&gt;
+&lt;source src="https://40923230.github.io/cd2022/downloads/v11-2.mp4" /&gt;&lt;/video&gt;
+&lt;div class="winkVideoOverlayClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarClass"&gt;&lt;button class="winkVideoControlBarPlayButtonClass"&gt;&lt;/button&gt; &lt;button class="winkVideoControlBarPauseButtonClass"&gt;&lt;/button&gt;
+&lt;div class="winkVideoControlBarProgressLeftClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressEmptyMiddleClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressRightClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressFilledMiddleClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressThumbClass"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="winkVideoPlayOverlayClass"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;-----------------------------------------------------------------------&lt;/p&gt;
+&lt;h6&gt;v12&lt;/h6&gt;
+&lt;p&gt;影片繪製&lt;/p&gt;
+&lt;script&gt;// &lt;![CDATA[
+var winkVideoData = {
+  dataVersion: 1,
+  frameRate: 20,
+  buttonFrameLength: 10,
+  buttonFrameOffset: 5,
+  frameStops: {
+  },
+};
+// ]]&gt;&lt;/script&gt;
+&lt;div class="winkVideoContainerClass"&gt;&lt;video width="1344" height="756" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData"&gt;
+&lt;source src="https://40923230.github.io/cd2022/downloads/v12.mp4" /&gt;&lt;/video&gt;
+&lt;div class="winkVideoOverlayClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarClass"&gt;&lt;button class="winkVideoControlBarPlayButtonClass"&gt;&lt;/button&gt; &lt;button class="winkVideoControlBarPauseButtonClass"&gt;&lt;/button&gt;
+&lt;div class="winkVideoControlBarProgressLeftClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressEmptyMiddleClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressRightClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressFilledMiddleClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressThumbClass"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="winkVideoPlayOverlayClass"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;-----------------------------------------------------------------------&lt;/p&gt;
+&lt;h6&gt;v13&lt;/h6&gt;
+&lt;p&gt;影片繪製&lt;/p&gt;
+&lt;script&gt;// &lt;![CDATA[
+var winkVideoData = {
+  dataVersion: 1,
+  frameRate: 20,
+  buttonFrameLength: 10,
+  buttonFrameOffset: 5,
+  frameStops: {
+  },
+};
+// ]]&gt;&lt;/script&gt;
+&lt;div class="winkVideoContainerClass"&gt;&lt;video width="1344" height="756" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData"&gt;
+&lt;source src="https://40923230.github.io/cd2022/downloads/v13.mp4" /&gt;&lt;/video&gt;
+&lt;div class="winkVideoOverlayClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarClass"&gt;&lt;button class="winkVideoControlBarPlayButtonClass"&gt;&lt;/button&gt; &lt;button class="winkVideoControlBarPauseButtonClass"&gt;&lt;/button&gt;
+&lt;div class="winkVideoControlBarProgressLeftClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressEmptyMiddleClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressRightClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressFilledMiddleClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressThumbClass"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="winkVideoPlayOverlayClass"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;-----------------------------------------------------------------------&lt;/p&gt;
+&lt;h6&gt;v14&lt;/h6&gt;
+&lt;p&gt;影片繪製&lt;/p&gt;
+&lt;script&gt;// &lt;![CDATA[
+var winkVideoData = {
+  dataVersion: 1,
+  frameRate: 20,
+  buttonFrameLength: 10,
+  buttonFrameOffset: 5,
+  frameStops: {
+  },
+};
+// ]]&gt;&lt;/script&gt;
+&lt;div class="winkVideoContainerClass"&gt;&lt;video width="1344" height="756" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData"&gt;
+&lt;source src="https://40923230.github.io/cd2022/downloads/v14.mp4" /&gt;&lt;/video&gt;
+&lt;div class="winkVideoOverlayClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarClass"&gt;&lt;button class="winkVideoControlBarPlayButtonClass"&gt;&lt;/button&gt; &lt;button class="winkVideoControlBarPauseButtonClass"&gt;&lt;/button&gt;
+&lt;div class="winkVideoControlBarProgressLeftClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressEmptyMiddleClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressRightClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressFilledMiddleClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressThumbClass"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="winkVideoPlayOverlayClass"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;-----------------------------------------------------------------------&lt;/p&gt;
+&lt;h6&gt;v15&lt;/h6&gt;
+&lt;p&gt;影片繪製&lt;/p&gt;
+&lt;script&gt;// &lt;![CDATA[
+var winkVideoData = {
+  dataVersion: 1,
+  frameRate: 20,
+  buttonFrameLength: 10,
+  buttonFrameOffset: 5,
+  frameStops: {
+  },
+};
+// ]]&gt;&lt;/script&gt;
+&lt;div class="winkVideoContainerClass"&gt;&lt;video width="1344" height="756" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData"&gt;
+&lt;source src="https://40923230.github.io/cd2022/downloads/V15.mp4" /&gt;&lt;/video&gt;
+&lt;div class="winkVideoOverlayClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarClass"&gt;&lt;button class="winkVideoControlBarPlayButtonClass"&gt;&lt;/button&gt; &lt;button class="winkVideoControlBarPauseButtonClass"&gt;&lt;/button&gt;
+&lt;div class="winkVideoControlBarProgressLeftClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressEmptyMiddleClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressRightClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressFilledMiddleClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressThumbClass"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="winkVideoPlayOverlayClass"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;h2&gt;40923231&lt;/h2&gt;
+&lt;h2&gt;40923235&lt;/h2&gt;</content><category term="Misc"></category><category term="2022SpringCD"></category></entry><entry><title>About</title><link href="./about.html" rel="alternate"></link><published>2022-02-03T14:00:00+08:00</published><updated>2022-05-12T14:07:49+08:00</updated><author><name>cd2022bg1</name></author><id>tag:None,2022-02-03:./about.html</id><summary type="html">&lt;p&gt;第一組組員網站及網頁&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;第一組組員網站及網頁&lt;/p&gt;
+
+
+&lt;h6&gt;&lt;span&gt;第一組&lt;/span&gt;&lt;/h6&gt;
+&lt;p&gt;&lt;span&gt;倉儲:&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;a href="https://github.com/40923205/cd2022bg1"&gt;cd2022bg1&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;網頁:&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;a href="https://40923205.github.io/cd2022bg1/content/index.html"&gt;cd2022bg1&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;組員:&lt;/p&gt;
+&lt;p&gt;倉儲&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;span&gt;網頁&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/40923205/cd2022"&gt;40923205&lt;/a&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;a href="https://40923205.github.io/cd2022/content/index.html"&gt;40923205&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/40923201/cd2022"&gt;40923201&lt;/a&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;a href="https://40923201.github.io/cd2022/content/index.html"&gt;40923201&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/nfu40923208/cd2022"&gt;40923208&lt;/a&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;a href="https://nfu40923208.github.io/cd2022/content/index.html"&gt;40923208&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/40923210/cd2022"&gt;40923210&lt;/a&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;a href="https://40923210.github.io/cd2022/content/index.html"&gt;40923210&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/40923217/cd2022"&gt;40923217&lt;/a&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;a href="https://40923217.github.io/cd2022/content/index.html"&gt;40923217&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/40923230/cd2022"&gt;40923230&lt;/a&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;a href="https://40923230.github.io/cd2022/content/index.html"&gt;40923230&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/40923231/cd2022"&gt;40923231&lt;/a&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;a href="https://40923231.github.io/cd2022/content/index.html"&gt;40923231&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/40923235/cd2022"&gt;40923235&lt;/a&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;a href="https://40923235.github.io/cd2022/content/index.html"&gt;40923235&lt;/a&gt;&lt;/p&gt;</content><category term="Misc"></category><category term="2022SpringCD"></category></entry></feed>
